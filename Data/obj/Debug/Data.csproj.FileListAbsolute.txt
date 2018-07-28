@@ -1,0 +1,17 @@
+C:\Users\Islam\source\repos\WebApplication2\Data\bin\Debug\Data.dll.config
+C:\Users\Islam\source\repos\WebApplication2\Data\bin\Debug\Data.dll
+C:\Users\Islam\source\repos\WebApplication2\Data\bin\Debug\Data.pdb
+C:\Users\Islam\source\repos\WebApplication2\Data\bin\Debug\EntityFramework.dll
+C:\Users\Islam\source\repos\WebApplication2\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Islam\source\repos\WebApplication2\Data\bin\Debug\EntityFramework.xml
+C:\Users\Islam\source\repos\WebApplication2\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Islam\source\repos\WebApplication2\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Islam\source\repos\WebApplication2\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Islam\source\repos\WebApplication2\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Islam\source\repos\WebApplication2\Data\obj\Debug\Data.dll
+C:\Users\Islam\source\repos\WebApplication2\Data\obj\Debug\Data.pdb
+C:\Users\Islam\source\repos\WebApplication2\Data\bin\Debug\Domain.dll
+C:\Users\Islam\source\repos\WebApplication2\Data\bin\Debug\Domain.pdb
+C:\Users\Islam\source\repos\WebApplication2\Data\obj\Debug\Data.Migrations.InitialCreate.resources
+C:\Users\Islam\source\repos\WebApplication2\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\Islam\source\repos\WebApplication2\Data\obj\Debug\Data.Migrations.AddBookModelIntoContext.resources

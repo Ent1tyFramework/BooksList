@@ -1,0 +1,14 @@
+C:\Users\Islam\source\repos\WebApplication2\Services\bin\Debug\Services.dll
+C:\Users\Islam\source\repos\WebApplication2\Services\bin\Debug\Services.pdb
+C:\Users\Islam\source\repos\WebApplication2\Services\bin\Debug\Data.dll
+C:\Users\Islam\source\repos\WebApplication2\Services\bin\Debug\EntityFramework.dll
+C:\Users\Islam\source\repos\WebApplication2\Services\bin\Debug\Data.pdb
+C:\Users\Islam\source\repos\WebApplication2\Services\bin\Debug\Data.dll.config
+C:\Users\Islam\source\repos\WebApplication2\Services\bin\Debug\EntityFramework.xml
+C:\Users\Islam\source\repos\WebApplication2\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Islam\source\repos\WebApplication2\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Islam\source\repos\WebApplication2\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Islam\source\repos\WebApplication2\Services\obj\Debug\Services.dll
+C:\Users\Islam\source\repos\WebApplication2\Services\obj\Debug\Services.pdb
+C:\Users\Islam\source\repos\WebApplication2\Services\bin\Debug\Domain.dll
+C:\Users\Islam\source\repos\WebApplication2\Services\bin\Debug\Domain.pdb
